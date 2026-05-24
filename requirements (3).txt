@@ -1,0 +1,13 @@
+# 圆柱绕流可视化系统 - 环境依赖（生成时间：win32）
+# 核心计算库
+numpy==2.3.3
+# 可视化核心库
+matplotlib==3.10.7
+# 交互控件库
+ipywidgets==8.1.2
+# 数值加速库
+numba==0.64.0
+# Jupyter Notebook运行依赖
+notebook>=7.0.0
+# 可选：ipywidgets渲染支持
+widgetsnbextension==4.0.10
